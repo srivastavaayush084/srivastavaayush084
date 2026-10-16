@@ -24,8 +24,35 @@ I enjoy developing practical software, exploring AI/ML techniques, and building 
 - 🛠️ **Enjoy building:** Research-oriented projects, web applications, and interactive dashboards
 - 🤝 **Open to:** Internships, collaborations, hackathons, and open-source contributions
 
+  
+## 💼 Experience
+
+### 🚀 Full Stack Engineer Intern
+**TRENDTIDE CONNECT PRIVATE LIMITED** · Internship  
+📅 June 2026 – Present  
+📍 Surat, Gujarat, India · On-site
+
+- Working on full-stack development and modern web technologies.
+- Contributing to frontend and backend application development.
+- Developing responsive web interfaces and integrating application functionality.
+- Applying software development practices to build and improve web applications.
+
+**Skills:** Full-Stack Development · Web Technologies
+
 ---
 
+### 💻 Intern — IBM
+**IBM** · Internship  
+📅 6-Week 
+
+- Architected and deployed a full-stack proof-of-concept application .
+- Integrated responsive web interfaces and core mobile functionalities to meet a predefined business objective.
+- Achieved **100% completion** of the final project deliverable.
+- Demonstrated proficiency in full-stack development concepts and translating business requirements into a technical solution.
+
+**Skills:** Full-Stack Development · Web Development · Responsive Design · Application Development
+
+---
 ## ⚡ Tech Stack
 
 ### 💻 Programming Languages
