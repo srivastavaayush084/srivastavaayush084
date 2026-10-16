@@ -1,17 +1,173 @@
-# 💫 About Me:
-🔭 I’m currently working on AI/ML projects and full-stack web applications<br>🤝 I’m looking to collaborate on AI/ML, Full Stack, and innovative open-source projects<br>💡 I’m interested in AI, Machine Learning, Data Science, and intelligent applications<br>🌱 I’m currently learning advanced AI/ML and production-level full-stack development<br>💬 Ask me about Python, Java, JavaScript, React, Node.js, MERN Stack, and AI/ML<br>⚡ Fun fact: I enjoy turning ideas into complete, working applications
 
+<!-- PROFILE BANNER -->
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/2104__ayush/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-21-srivastava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivastavaayush084@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1a1a2e,70:2d1b69,100:7c3aed&height=210&section=header&text=Ayush%20Srivastava&fontSize=58&fontColor=c084fc&animation=fadeIn&fontAlignY=36&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16&descColor=e9d5ff" width="100%" alt="Ayush Srivastava" />
 
-# 💻 Tech Stack:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Hello+World%2C+I'm+Ayush+Srivastava!;B.Tech+CSE+(AI+%26+ML)+Student;Building+with+Web+Development+and+AI%2FML;Learn+%E2%80%A2+Build+%E2%80%A2+Experiment+%E2%80%A2+Improve" alt="Typing introduction" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" alt="Coding animation" />
+
+<br/>
+
+<a href="https://github.com/srivastavaayush084">
+<img src="https://komarev.com/ghpvc/?username=srivastavaayush084&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" alt="Profile views" />
+</a>
+<a href="https://github.com/srivastavaayush084?tab=followers">
+<img src="https://img.shields.io/github/followers/srivastavaayush084?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS&logo=github" alt="GitHub followers" />
+</a>
+<a href="https://github.com/srivastavaayush084?tab=repositories">
+<img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Web%20Dev-a855f7?style=for-the-badge&labelColor=0d1117" alt="Focus" />
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=srivastavaayush084&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Hi! I'm **Ayush Srivastava**, a B.Tech Computer Science student specializing in **Artificial Intelligence and Machine Learning (2023–2027)**. I enjoy building web applications, exploring AI/ML, and turning ideas into practical software solutions.
+
+- 🎓 **Education:** B.Tech CSE (AI & ML), 2023–2027
+- 🧠 **Interests:** Artificial Intelligence, Machine Learning, cybersecurity, and full-stack development
+- 🌱 **Currently exploring:** AI/ML workflows, backend development, and scalable application architecture
+- 🛠️ **Passionate about:** Building useful projects and solving real-world problems
+- 🤝 **Open to:** Internships, hackathons, collaborations, and open-source projects
+
+---
+
+## ⚡ Tech Stack & Tools
+
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+</p>
+
+### 🤖 AI, Machine Learning & Data Science
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
+
+### 🗄️ Databases & ORM
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+</p>
+
+### ⚙️ Developer Tools & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ AI-Based Zero-Day Attack Detection System
+
+An AI/ML-based cybersecurity project focused on identifying suspicious network activity and detecting potentially unseen attacks.
+
+- **Focus:** Network intrusion detection, anomaly detection, and hybrid ML models
+- **Technologies:** Python, scikit-learn, TensorFlow/PyTorch, NSL-KDD, CICIDS2017
+
+### 🌱 Carbon Footprint Optimizer
+
+A sustainability platform focused on estimating emissions, analysing resource usage, and recommending ways to reduce energy consumption.
+
+- **Focus:** Carbon accounting, AI workload tracking, optimization recommendations, and reporting
+- **Technologies:** React, TypeScript, Vite, Tailwind CSS
+
+### 📣 Trendtide Connect
+
+An influencer marketing platform concept that connects brands with creators and supports campaign planning.
+
+- **Focus:** Creator discovery, campaign planning, and budget estimation
+- **Technologies:** Web development, React, and backend tools
+
+### 🧼 Home Rituals
+
+An e-commerce website focused on home-cleaning essentials and a smooth shopping experience.
+
+- **Focus:** Product presentation, order flows, and payment integration
+- **Technologies:** React, Node.js, Express, MongoDB, and payment gateway tools
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=srivastavaayush084&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" alt="GitHub statistics"/>
+<img height="165" src="https://streak-stats.demolab.com?user=srivastavaayush084&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a855f7&fire=c084fc&currStreakLabel=c084fc" alt="GitHub streak"/>
+</div>
+
+<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaayush084&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e9d5ff" alt="Top languages"/>
+</div>
+
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavaayush084&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Contribution graph"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/srivastavaayush084">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=24&fontColor=e9d5ff&animation=fadeIn&fontAlignY=65" width="100%" alt="Thanks for visiting"/>
+
+**Built with curiosity, code, and ☕ by Ayush Srivastava**
+
+</div>
