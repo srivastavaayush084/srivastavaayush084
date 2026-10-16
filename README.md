@@ -7,15 +7,6 @@
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Hello+World%2C+I'm+Ayush+Srivastava!;B.Tech+CSE+(AI+%26+ML)+Student;Exploring+AI%2FML+and+Full-Stack+Development;Learn+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Typing introduction" />
   </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/srivastavaayush084">
-    <img src="https://komarev.com/ghpvc/?username=srivastavaayush084&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://github.com/srivastavaayush084?tab=followers">
-    <img src="https://img.shields.io/github/followers/srivastavaayush084?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS&logo=github" alt="GitHub followers" />
-  </a>
 </div>
 
 ---
