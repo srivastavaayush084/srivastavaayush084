@@ -145,14 +145,6 @@ An e-commerce website focused on home-cleaning essentials and a user-friendly sh
     alt="GitHub contribution calendar for Ayush Srivastava"
     width="100%"
   />
-
-  <br/><br/>
-
-  <a href="https://github.com/srivastavaayush084">
-    <img
-      src="https://img.shields.io/badge/View%20My%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub profile"
-    />
   </a>
 
 </div>
