@@ -8,6 +8,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Hello+World%2C+I'm+Ayush+Srivastava!;B.Tech+CSE+(AI+%26+ML)+Student;Exploring+AI%2FML+and+Full-Stack+Development;Learn+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Typing introduction" />
   </a>
 </div>
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
@@ -23,6 +25,20 @@ I enjoy developing practical software, exploring AI/ML techniques, and building 
 - 🌱 **Currently learning:** Advanced AI/ML workflows and scalable application architecture
 - 🛠️ **Enjoy building:** Research-oriented projects, web applications, and interactive dashboards
 - 🤝 **Open to:** Internships, collaborations, hackathons, and open-source contributions
+
+  <br><img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
+```yaml
+┌─────────────────────────────────────────┐
+│     Ayush Srivastava  •  DEV            │
+├─────────────────────────────────────────┤
+│  Role    : Frontend Developer           │
+│  Focus   : Web Apps & UI/UX             │
+│  Status  : Open to Opportunities 🟢    |
+│  Passion : Code · Design · Ship         │
+└─────────────────────────────────────────┘
+```
+<</br>
 
   
 ## 💼 Experience
