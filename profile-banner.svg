@@ -1,1 +1,53 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#211542"/>
+      <stop offset="100%" stop-color="#581c87"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#67e8f9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+
+  <circle cx="1030" cy="80" r="150" fill="#a855f7" opacity="0.10"/>
+  <circle cx="1100" cy="245" r="110" fill="#67e8f9" opacity="0.08"/>
+
+  <path d="M0 260 Q300 190 570 260 T1200 210"
+        fill="none" stroke="#c084fc" stroke-opacity="0.25" stroke-width="2"/>
+  <path d="M0 275 Q300 205 570 275 T1200 225"
+        fill="none" stroke="#67e8f9" stroke-opacity="0.2" stroke-width="2"/>
+
+  <text x="65" y="78" fill="#c084fc" font-family="monospace"
+        font-size="18" letter-spacing="5">&lt; DEVELOPER PROFILE /&gt;</text>
+
+  <text x="62" y="155" fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="56" font-weight="700">Ayush Srivastava</text>
+
+  <rect x="65" y="180" width="110" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="65" y="220" fill="#e9d5ff"
+        font-family="Arial, Helvetica, sans-serif" font-size="22">
+    B.Tech CSE • Artificial Intelligence &amp; Machine Learning
+  </text>
+
+  <text x="65" y="258" fill="#cbd5e1"
+        font-family="monospace" font-size="16">
+    BUILDING • LEARNING • INNOVATING
+  </text>
+
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.8">
+    <rect x="930" y="90" width="130" height="100" rx="14"/>
+    <path d="M960 125 L985 145 L960 165 M1000 165 L1030 125"/>
+    <circle cx="1090" cy="75" r="7"/>
+    <circle cx="1120" cy="110" r="5"/>
+    <circle cx="1080" cy="135" r="4"/>
+    <path d="M1090 75 L1120 110 L1080 135 L1090 75"/>
+  </g>
+</svg>
+
