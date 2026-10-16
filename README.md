@@ -168,14 +168,6 @@ An e-commerce website focused on home-cleaning essentials and a user-friendly sh
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
-
-📧 **Email:** [srivastavaayush084@gmail.com](mailto:srivastavaayush084@gmail.com)
-
-💼 **LinkedIn:** [Ayush Srivastava](https://www.linkedin.com/in/ayush-21-srivastava/)
-
-💻 **GitHub:** [srivastavaayush084](https://github.com/srivastavaayush084)
-
 </div>
 
 ---
