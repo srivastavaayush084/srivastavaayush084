@@ -142,15 +142,30 @@ An e-commerce website focused on home-cleaning essentials and a user-friendly sh
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavaayush084&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+  <h3>My GitHub Contribution Calendar</h3>
+
+  <img
+    src="https://ghchart.rshah.org/a855f7/srivastavaayush084"
+    alt="GitHub contribution calendar for Ayush Srivastava"
+    width="100%"
+  />
+
+  <br/><br/>
+
+  <a href="https://github.com/srivastavaayush084">
+    <img
+      src="https://img.shields.io/badge/View%20My%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub profile"
+    />
+  </a>
+
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/a855f7/srivastavaayush084" width="100%" alt="GitHub contribution calendar"/>
-</div>
 
 ---
 
