@@ -193,7 +193,11 @@ An e-commerce website focused on home-cleaning essentials and a user-friendly sh
     width="100%"
   />
   </a>
+<br>
+<h2 align="center">🌟 &nbsp;Thought of the Day 🌟</h2>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" width="600"/>
 </div>
 
 
