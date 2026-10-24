@@ -38,7 +38,7 @@ I enjoy developing practical software, exploring AI/ML techniques, and building 
 ├─────────────────────────────────────────┤
 │  Role    : Frontend Developer           │
 │  Focus   : Web Apps & UI/UX             │
-│  Status  : Open to Opportunities 🟢    |
+│  Status  : Open to Opportunities        |
 │  Passion : Code · Design · Ship         │
 └─────────────────────────────────────────┘
 ```
