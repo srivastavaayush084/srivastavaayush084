@@ -165,13 +165,23 @@ An e-commerce website focused on home-cleaning essentials and a user-friendly sh
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=srivastavaayush084&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" alt="GitHub statistics"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=srivastavaayush084&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a855f7&fire=c084fc&currStreakLabel=c084fc" alt="GitHub contribution streak"/>
+
+  <img width="49%"
+    src="./profile/stats.svg"
+    alt="Ayush GitHub Statistics"/>
+
+  <img width="49%"
+    src="https://streak-stats.demolab.com?user=srivastavaayush084&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a855f7&fire=c084fc&currStreakLabel=c084fc"
+    alt="GitHub Contribution Streak"/>
+
+  <br/><br/>
+
+  <img width="55%"
+    src="./profile/top-langs.svg"
+    alt="Most Used Programming Languages"/>
+
 </div>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaayush084&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e9d5ff" alt="Most used programming languages"/>
-</div>
 
 ---
 
