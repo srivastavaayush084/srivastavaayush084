@@ -160,27 +160,6 @@ An e-commerce website focused on home-cleaning essentials and a user-friendly sh
 - **Focus:** Product presentation, shopping flows, backend integration, and payments
 - **Technologies:** Web development, backend, and database tools
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img width="49%"
-    src="./profile/stats.svg"
-    alt="Ayush GitHub Statistics"/>
-
-  <img width="49%"
-    src="https://streak-stats.demolab.com?user=srivastavaayush084&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a855f7&fire=c084fc&currStreakLabel=c084fc"
-    alt="GitHub Contribution Streak"/>
-
-  <br/><br/>
-
-  <img width="55%"
-    src="./profile/top-langs.svg"
-    alt="Most Used Programming Languages"/>
-
-</div>
 
 
 ---
