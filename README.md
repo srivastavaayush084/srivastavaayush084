@@ -12,8 +12,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="480" alt="Coding GIF"/>
 </div>
 
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -41,9 +39,7 @@ I enjoy developing practical software, exploring AI/ML techniques, and building 
 │  Passion : Code · Design · Ship         │
 └─────────────────────────────────────────┘
 ```
-</br>
 
-  
 ## 💼 Experience
 
 ### 🚀 Full Stack Engineer Intern
@@ -62,9 +58,9 @@ I enjoy developing practical software, exploring AI/ML techniques, and building 
 
 ### 💻 Intern — IBM
 **IBM** · Internship  
-📅 6-Week 
+📅 6-Week
 
-- Architected and deployed a full-stack proof-of-concept application .
+- Architected and deployed a full-stack proof-of-concept application.
 - Integrated responsive web interfaces and core mobile functionalities to meet a predefined business objective.
 - Achieved **100% completion** of the final project deliverable.
 - Demonstrated proficiency in full-stack development concepts and translating business requirements into a technical solution.
@@ -72,6 +68,7 @@ I enjoy developing practical software, exploring AI/ML techniques, and building 
 **Skills:** Full-Stack Development · Web Development · Responsive Design · Application Development
 
 ---
+
 ## ⚡ Tech Stack
 
 ### 💻 Programming Languages
@@ -169,7 +166,6 @@ An e-commerce website focused on home-cleaning essentials and a user-friendly sh
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=srivastavaayush084&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" alt="GitHub statistics"/>
-
   <img height="170" src="https://streak-stats.demolab.com?user=srivastavaayush084&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a855f7&fire=c084fc&currStreakLabel=c084fc" alt="GitHub contribution streak"/>
 </div>
 
@@ -179,43 +175,33 @@ An e-commerce website focused on home-cleaning essentials and a user-friendly sh
 
 ---
 
-
 ## 📈 Contribution Activity
 
 <div align="center">
-
   <h3>My GitHub Contribution Calendar</h3>
+  <img src="https://ghchart.rshah.org/a855f7/srivastavaayush084" alt="GitHub contribution calendar for Ayush Srivastava" width="100%"/>
+</div>
 
-  <img
-    src="https://ghchart.rshah.org/a855f7/srivastavaayush084"
-    alt="GitHub contribution calendar for Ayush Srivastava"
-    width="100%"
-  />
-  </a>
-<br>
-<h2 align="center">🌟 &nbsp;Thought of the Day 🌟</h2>
+## 🌟 Thought of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" width="600"/>
 </div>
-
 
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
-
-<a href="https://github.com/srivastavaayush084">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/ayush-21-srivastava/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:srivastavaayush084@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
+  <a href="https://github.com/srivastavaayush084">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-21-srivastava/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:srivastavaayush084@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 ---
